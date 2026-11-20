@@ -1,0 +1,49 @@
+{
+  "title": "MCP LLM Wiki official-source registry",
+  "as_of": "2026-11-20",
+  "spec_baseline": "2026-07-28",
+  "source_count": 5,
+  "content_policy": "raw files contain source URLs and original Chinese study notes, NOT full official article copies",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "MCP Introduction",
+      "url": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+      "note_path": "raw/s01-introduction.md",
+      "status": "reviewed_and_synthesized",
+      "source_type": "official_documentation"
+    },
+    {
+      "id": "S02",
+      "title": "Architecture Overview",
+      "url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture",
+      "note_path": "raw/s02-architecture.md",
+      "status": "reviewed_and_synthesized",
+      "source_type": "official_documentation"
+    },
+    {
+      "id": "S03",
+      "title": "Understanding MCP Servers",
+      "url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/server-concepts",
+      "note_path": "raw/s03-server-concepts.md",
+      "status": "reviewed_and_synthesized",
+      "source_type": "official_documentation"
+    },
+    {
+      "id": "S04",
+      "title": "MCP Specification 2026-07-28",
+      "url": "https://modelcontextprotocol.io/specification/2026-07-28",
+      "note_path": "raw/s04-specification.md",
+      "status": "reviewed_and_synthesized",
+      "source_type": "official_documentation"
+    },
+    {
+      "id": "S05",
+      "title": "Security Best Practices",
+      "url": "https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices",
+      "note_path": "raw/s05-security.md",
+      "status": "reviewed_and_synthesized",
+      "source_type": "official_documentation"
+    }
+  ]
+}
