@@ -1,0 +1,282 @@
+[
+  {
+    "device": "desktop",
+    "viewport": "1440x900",
+    "errors": [],
+    "slides": [
+      {
+        "slide": 1,
+        "title": "什麼是 MCP？",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 2,
+        "title": "AI 很會回答，但不會憑空拿到你的資料",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 3,
+        "title": "整合太多？問題在重複造輪子",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 4,
+        "title": "三個角色：Host · Client · Server",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 5,
+        "title": "MCP Server 不一定在雲端",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 6,
+        "title": "Server 的三大能力",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 7,
+        "title": "JSON-RPC：訊息的基本形狀",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 8,
+        "title": "互動示範：一次 Tool Call 的 7 步",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 9,
+        "title": "MCP ≠ API ≠ Function Calling",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 10,
+        "title": "那 MCP 和 RAG 又差在哪裡？",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 11,
+        "title": "接上真實工具，也接上真實風險",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      },
+      {
+        "slide": 12,
+        "title": "三題測驗：你真的理解 MCP 了嗎？",
+        "metrics": {
+          "pageWidth": 1440,
+          "viewport": 1440,
+          "outerOverflow": [],
+          "bodyScrollHeight": 900,
+          "viewHeight": 900
+        }
+      }
+    ],
+    "horizontal_overflow_pages": []
+  },
+  {
+    "device": "mobile",
+    "viewport": "390x844",
+    "errors": [],
+    "slides": [
+      {
+        "slide": 1,
+        "title": "什麼是 MCP？",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 990,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 2,
+        "title": "AI 很會回答，但不會憑空拿到你的資料",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 844,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 3,
+        "title": "整合太多？問題在重複造輪子",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 1105,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 4,
+        "title": "三個角色：Host · Client · Server",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 941,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 5,
+        "title": "MCP Server 不一定在雲端",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 1035,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 6,
+        "title": "Server 的三大能力",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 1095,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 7,
+        "title": "JSON-RPC：訊息的基本形狀",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 1278,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 8,
+        "title": "互動示範：一次 Tool Call 的 7 步",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 844,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 9,
+        "title": "MCP ≠ API ≠ Function Calling",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 881,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 10,
+        "title": "那 MCP 和 RAG 又差在哪裡？",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 1066,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 11,
+        "title": "接上真實工具，也接上真實風險",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 1179,
+          "viewHeight": 844
+        }
+      },
+      {
+        "slide": 12,
+        "title": "三題測驗：你真的理解 MCP 了嗎？",
+        "metrics": {
+          "pageWidth": 390,
+          "viewport": 390,
+          "outerOverflow": [],
+          "bodyScrollHeight": 906,
+          "viewHeight": 844
+        }
+      }
+    ],
+    "horizontal_overflow_pages": []
+  }
+]
